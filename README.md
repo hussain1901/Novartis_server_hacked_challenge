@@ -46,7 +46,7 @@ Based on the recall score of all algorithm, KNN is selected for final model deve
 
 K is selected as 3 based on the score of training and testing.
 
-![alt text] (https://github.com/hussain1901/Novartis_server_hacked_challenge/blob/master/KNN_select_K.png)
+![Select K](https://github.com/hussain1901/Novartis_server_hacked_challenge/blob/master/KNN_select_K.png)
 
 Now with K=3 a KNN model is build, tested on the unseen/test dataset.
 Final recall score achieved was 0.906 after submission of the result on hiring challenge website.
