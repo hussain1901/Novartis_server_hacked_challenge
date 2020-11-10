@@ -45,7 +45,8 @@ Recall is metric used for model evaluation as accuracy could be misleading in th
 Based on the recall score of all algorithm, KNN is selected for final model development.
 
 K is selected as 3 based on the score of training and testing.
-![Accuracy Graph] (https://github.com/hussain1901/Novartis_server_hacked_challenge/blob/master/KNN_select_K.png)
+
+![alt text] (https://github.com/hussain1901/Novartis_server_hacked_challenge/blob/master/KNN_select_K.png)
 
 Now with K=3 a KNN model is build, tested on the unseen/test dataset.
 Final recall score achieved was 0.906 after submission of the result on hiring challenge website.
